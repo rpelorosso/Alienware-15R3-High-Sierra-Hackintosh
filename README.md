@@ -34,4 +34,12 @@ and run ALCPlugFix. This fixes the sound for headphones.
 
 ### Power management
 
-HWPEnable works fine
+[HWPEnable](https://www.tonymacx86.com/threads/skylake-hwp-enable.214915/) works fine.
+
+Some profiles for HWPValue:
+
+- 80002301 - middle point
+- 64002301 - little more performance (moderate mode)
+- 94002301 - little more battery saving (same setting as on real MacBook9,1)
+
+
